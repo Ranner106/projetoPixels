@@ -22,13 +22,13 @@ body{
     color: white;
 }
 #color-palette {
-    width: 500px;
+    width: 1200px;
     display: flex;
     height: 200px;
-    text-align: center;
     margin-left: auto;
-    margin-right: 400px;
-    flex-wrap: wrap;
+    margin-right: -300px;
+    /* flex-wrap: wrap; */
+    flex-basis: 400px;
     
 }
 
